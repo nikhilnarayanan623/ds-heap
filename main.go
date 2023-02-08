@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/nikhilnarayanan623/heap/maxHeap"
+
+	"github.com/nikhilnarayanan623/ds-heap/maxHeap"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package minHeap
 import (
 	"fmt"
 
-	"github.com/nikhilnarayanan623/heap/minHeap/interfaces"
+	"github.com/nikhilnarayanan623/ds-heap/minHeap/interfaces"
 )
 
 type minHeap struct {

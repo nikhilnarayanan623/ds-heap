@@ -3,7 +3,7 @@ package maxHeap
 import (
 	"fmt"
 
-	"github.com/nikhilnarayanan623/heap/maxHeap/interfaces"
+	"github.com/nikhilnarayanan623/ds-heap/maxHeap/interfaces"
 )
 
 type maxHeap struct {
